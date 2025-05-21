@@ -18,4 +18,4 @@ my_dog = Dog("Buddy")
 
 # Call methods
 my_dog.speak()  # Inherited from Animal
-my_dog.bark()   # Specific to Dog
+my_dog.bark()   # Specific to Dog .
